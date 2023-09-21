@@ -1,0 +1,170 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1,
+h2 {
+    text-align: center;
+    margin: 50px 0;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+.container {
+    height: 141.5px;
+    display: flex;
+}
+
+.boxBorder {
+    border: 3px solid black;
+}
+
+.LD4box {
+    display: flex;
+}
+
+.RD5box {
+    display: flex;
+}
+
+#D1box1 {
+    background-color: brown;
+    width: 33.33%;
+}
+
+#D1box2 {
+    background-color: burlywood;
+    width: 33.33%;
+}
+
+#D1box3 {
+    background-color: blanchedalmond;
+    width: 33.33%;
+}
+
+#D2box1 {
+    background-color: blue;
+    width: 50%;
+}
+
+#D2box2 {
+    background-color: aqua;
+    width: 50%;
+}
+
+#D3box1 {
+    background-color: darkgreen;
+    width: 33.33%;
+}
+
+#D3box2 {
+    background-color: chartreuse;
+    width: 33.33%;
+}
+
+#D3box3 {
+    background-color: darkolivegreen;
+    width: 33.33%;
+}
+
+#D4box1 {
+    width: 40%;
+    display: flex;
+}
+
+#D4box2 {
+    width: 60%;
+    display: flex;
+}
+
+#LD4box1 {
+    background-color: crimson;
+    width: 25%;
+}
+
+#LD4box2 {
+    background-color: darkmagenta;
+    width: 50%;
+}
+
+#LD4box3 {
+    background-color: violet;
+    width: 25%;
+}
+
+#RD4box1 {
+    background-color: midnightblue;
+    width: 70%;
+}
+
+#RD4box2 {
+    width: 30%;
+}
+
+#RD4UPbox1 {
+    height: 40%;
+    background-color: deeppink;
+}
+
+#RD4DOWNbox2 {
+    height: 60%;
+    background-color: aqua;
+}
+
+#D5box1 {
+    width: 40%;
+    display: flex;
+}
+
+#D5box2 {
+    width: 60%;
+}
+
+#LD5box1 {
+    background-color: blueviolet;
+    width: 50%;
+}
+
+#LD5box2 {
+    background-color: yellowgreen;
+    width: 50%;
+}
+
+#RD5UPbox1 {
+    height: 50%;
+    background-color: antiquewhite;
+}
+
+#RD5DOWNbox2 {
+    height: 50%;
+    background-color: aquamarine;
+}
+
+#RD5UPLbox1 {
+    width: 55%;
+    background-color: goldenrod;
+}
+
+#RD5UPRbox1 {
+    width: 45%;
+    background-color: blue;
+}
+
+#RD5DOWNLbox2 {
+    width: 45%;
+    background-color: darkred;
+}
+
+#RD5DOWNRbox2 {
+    width: 55%;
+    background-color: chocolate;
+}
